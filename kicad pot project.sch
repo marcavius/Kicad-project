@@ -54,7 +54,7 @@ U 1 1 5A6919AC
 P 9950 1150
 F 0 "P3" V 9775 1150 50  0000 C CNN
 F 1 "POT3" V 9850 1150 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Alps_RK09Y_Vertical" H 9950 1150 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Alps_RK09K_Horizontal" H 9950 1150 50  0001 C CNN
 F 3 "" H 9950 1150 50  0001 C CNN
 	1    9950 1150
 	0    1    1    0   
@@ -65,7 +65,7 @@ U 1 1 5A691AD5
 P 9050 1650
 F 0 "P4" V 8875 1650 50  0000 C CNN
 F 1 "POT4" V 8950 1650 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Alps_RK09Y_Vertical" H 9050 1650 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Alps_RK09K_Horizontal" H 9050 1650 50  0001 C CNN
 F 3 "" H 9050 1650 50  0001 C CNN
 	1    9050 1650
 	0    1    1    0   
@@ -76,7 +76,7 @@ U 1 1 5A691B06
 P 9500 1650
 F 0 "P5" V 9325 1650 50  0000 C CNN
 F 1 "POT5" V 9400 1650 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Alps_RK09Y_Vertical" H 9500 1650 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Alps_RK09K_Horizontal" H 9500 1650 50  0001 C CNN
 F 3 "" H 9500 1650 50  0001 C CNN
 	1    9500 1650
 	0    1    1    0   
@@ -87,7 +87,7 @@ U 1 1 5A691B25
 P 9950 1650
 F 0 "P6" V 9775 1650 50  0000 C CNN
 F 1 "POT6" V 9850 1650 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Alps_RK09Y_Vertical" H 9950 1650 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Alps_RK09K_Horizontal" H 9950 1650 50  0001 C CNN
 F 3 "" H 9950 1650 50  0001 C CNN
 	1    9950 1650
 	0    1    1    0   
@@ -98,7 +98,7 @@ U 1 1 5A691B46
 P 9050 1150
 F 0 "P1" V 8875 1150 50  0000 C CNN
 F 1 "POT1" V 8950 1150 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Alps_RK09Y_Vertical" H 9050 1150 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Alps_RK09K_Horizontal" H 9050 1150 50  0001 C CNN
 F 3 "" H 9050 1150 50  0001 C CNN
 	1    9050 1150
 	0    1    1    0   
@@ -330,7 +330,7 @@ U 1 1 5A7278A5
 P 9500 1150
 F 0 "P2" V 9325 1150 50  0000 C CNN
 F 1 "POT2" V 9400 1150 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Alps_RK09Y_Vertical" H 9500 1150 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Alps_RK09K_Horizontal" H 9500 1150 50  0001 C CNN
 F 3 "" H 9500 1150 50  0001 C CNN
 	1    9500 1150
 	0    1    1    0   

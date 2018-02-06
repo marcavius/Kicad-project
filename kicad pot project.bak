@@ -132,22 +132,6 @@ Text GLabel 8600 1350 2    47   Input ~ 9
 AO2
 Text GLabel 8600 1450 2    47   Input ~ 9
 AO3
-Text GLabel 4400 2800 0    47   Output Italic 0
-3.3b
-Text GLabel 4400 2900 0    47   Output ~ 0
-GNDb
-Text GLabel 4400 3300 0    47   Input ~ 9
-AO1
-Text GLabel 4400 3400 0    47   Input ~ 9
-AO2
-Text GLabel 4400 3500 0    47   Input ~ 9
-AO3
-Text GLabel 4400 3600 0    47   Input ~ 9
-AO4
-Text GLabel 4400 3700 0    47   Input ~ 9
-AO5
-Text GLabel 4400 3800 0    47   Input ~ 9
-AO6
 $Comp
 L +3.3V #PWR01
 U 1 1 5A726D55
